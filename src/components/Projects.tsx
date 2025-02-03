@@ -19,7 +19,7 @@ const Projects: FC = () => {
     },
     {
       title: 'ThriveHUB',
-      description: '  ',
+      description: 'ThriveHUB is an application that allows employees to share their feelings and thoughts with their company so well-being and mental health can be improved.',
       technologies: ['React', 'Node.js', 'JavaScript', 'Tailwind CSS', 'TypeScript', 'HTML', 'PostgreSQL', 'API Integration'],
       image: THRIVE_HUB,
       link: 'https://github.com/rayanreis/thrivehub',

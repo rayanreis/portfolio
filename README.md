@@ -23,7 +23,7 @@ I'm Rayan Fernandes, a passionate Software Engineer with a love for creating ele
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rayanreis/)
-- [Portfolio Website](https://rayanreis.github.io/)
+- [Portfolio Website](https://rayanreis.github.io/portfolio)
 - [Email](mailto:rayanrn8@hotmail.com)
 
 
